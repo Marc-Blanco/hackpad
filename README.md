@@ -11,7 +11,15 @@ Is a really simple hackpad followed by the hackclub tutorial
 his is a broad representation it actually fits well
 ![image](https://github.com/user-attachments/assets/8f27af03-a0ad-4efd-9022-11f9b1250eeb)
 
+## BOM
 
-
+| Part | Quantity | link |
+| ---- | ------| -----|
+| Keys | x6 | splitkb.com |
+| Body | x2 |-----|
+| Pcb | x5 | pcbway.com |
+|speaker| x1 | already have|
+| xiao | x1 | Aliexpress.com|
+| leds | x2 | Aliexpress.com|
 
 
