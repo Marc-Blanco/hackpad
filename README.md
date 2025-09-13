@@ -1,8 +1,9 @@
 # hackpad
 Is a really simple hackpad followed by the hackclub tutorial
 -----------------------------------------------------------------------
-
-##Images
+## Firmware
+https://docs.qmk.fm/newbs_building_firmware_configurator
+## Images
 
 ![image](https://github.com/user-attachments/assets/06113bb2-679e-4bcc-8c1b-e5d2a4c81aa0)
 ![image](https://github.com/user-attachments/assets/c7d267bf-55b0-4347-845a-7ce4f7d103bb)
